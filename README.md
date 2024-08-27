@@ -6,4 +6,4 @@ Agradeço à Oracle e à Alura por proporcionar esta oportunidade de aprendizado
 prometo na proxima estudar mais e nelhorar o design
 
 
-acesse o projeto atráves do link:https://projetomatrix-rouge.vercel.app/
+acesse o projeto atráves do link :https://projetomatrix-rouge.vercel.app/
